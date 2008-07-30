@@ -10,6 +10,11 @@ contact&inform me.
 So for any further readme, RTFM in the references and this
 hacked script set.
 
+Installation:
+=============
+- copy the stuff under outvim/* to your ~/.vim dir
+- append the vimrc stuff to your ~/.vimrc file
+
 Dependencies:
 =============
 - viki?
