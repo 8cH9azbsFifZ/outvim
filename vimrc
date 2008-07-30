@@ -1,3 +1,7 @@
+set nocompatible
+syntax on
+filetype plugin indent on
+
 " TVO stuff
 let otl_install_menu=1
 let no_otl_maps=0
